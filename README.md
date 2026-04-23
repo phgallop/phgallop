@@ -11,5 +11,5 @@ Transitioning from UX Research into Machine Learning and AI, focusing on buildin
 - LLM and generative AI workflows
 
 ### Projects
-- Sentiment Analysis (ML)
-- Credit Risk Classification
+- [Sentiment Analysis](https://github.com/phgallop/sentiment-analysis)
+- [Credit Risk Classification](https://github.com/phgallop/credit-risk)
