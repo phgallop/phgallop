@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="900" viewBox="0 0 1280 900" role="img" aria-labelledby="title desc">
+  <title id="title">phgallop / soul.svg</title>
+  <desc id="desc">Applied AI profile: conversational systems and identity-preserving generation connect to a shared continuity layer. Includes technical scope, identity continuity, quick builds, languages and UX Research background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#f6f8fa"/>
+      <stop offset="100%" stop-color="#eef2f7"/>
+    </linearGradient>
+    <linearGradient id="continuity" gradientUnits="userSpaceOnUse" x1="432" y1="371" x2="432" y2="532">
+      <stop offset="0%" stop-color="#8250df"/>
+      <stop offset="100%" stop-color="#0969da"/>
+    </linearGradient>
+    <clipPath id="canvas"><rect width="1280" height="900" rx="28"/></clipPath>
+    <filter id="shadow" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.06"/>
+    </filter>
+    <style>
+      .mono { font-family: Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace; }
+      .sans { font-family: "Segoe UI", Inter, Arial, sans-serif; }
+      .title { fill: #1f2328; font-size: 32px; font-weight: 700; }
+      .subtitle { fill: #59636e; font-size: 15px; }
+      .section { fill: #59636e; font-size: 11px; font-weight: 700; letter-spacing: 1.8px; }
+      .strong { fill: #1f2328; font-size: 16px; font-weight: 700; }
+      .text { fill: #364152; font-size: 14px; font-weight: 600; }
+      .small { fill: #59636e; font-size: 12px; }
+      .tiny { fill: #687380; font-size: 11px; }
+      .panel { fill: #ffffff; stroke: #d0d7de; stroke-width: 1; filter: url(#shadow); }
+      .soft { fill: #f3f6fc; stroke: #ccd6e4; stroke-width: 1; }
+      .chip { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 1; }
+      .grid { fill: none; stroke: #d8dee4; stroke-width: 1; opacity: 0.3; }
+      .green { fill: #1a7f37; font-size: 11px; }
+      .orange { fill: #a64b00; font-size: 11px; }
+      .purple { fill: #8250df; font-size: 11px; }
+    </style>
+  </defs>
+  <g clip-path="url(#canvas)">
+  <rect width="1280" height="900" fill="url(#bg)"/>
+  <path d="M60 0V900 M140 0V900 M220 0V900 M300 0V900 M380 0V900 M460 0V900 M540 0V900 M620 0V900 M700 0V900 M780 0V900 M860 0V900 M940 0V900 M1020 0V900 M1100 0V900 M1180 0V900 M1260 0V900 M0 100H1280 M0 200H1280 M0 300H1280 M0 400H1280 M0 500H1280 M0 600H1280 M0 700H1280 M0 800H1280" class="grid"/>
+  <!-- Header -->
+  <text x="44" y="58" class="mono title" text-anchor="start">phgallop / profile.svg</text>
+  <text x="44" y="84" class="sans subtitle" text-anchor="start">Applied AI · Conversational Systems · Identity Persistence</text>
+  <rect x="1038" y="29" width="95" height="31" rx="16" fill="#dafbe1" stroke="#1a7f37"/>
+  <circle cx="1062" cy="44.5" r="4.5" fill="#1a7f37"/>
+  <text x="1076" y="49" class="mono green" text-anchor="start" font-weight="700">ACTIVE</text>
+  <rect x="1147" y="29" width="97" height="31" rx="16" class="chip"/>
+  <text x="1195.5" y="49" class="mono tiny" text-anchor="middle">v29</text>
+  <rect x="44" y="110" width="84" height="26" rx="13" class="chip"/>
+  <text x="86" y="127" class="mono tiny" text-anchor="middle">PYTHON</text>
+  <rect x="139" y="110" width="72" height="26" rx="13" class="chip"/>
+  <text x="175" y="127" class="mono tiny" text-anchor="middle">NLP</text>
+  <rect x="222" y="110" width="90" height="26" rx="13" class="chip"/>
+  <text x="267" y="127" class="mono tiny" text-anchor="middle">SPEECH</text>
+  <rect x="323" y="110" width="92" height="26" rx="13" class="chip"/>
+  <text x="369" y="127" class="mono tiny" text-anchor="middle">AGENTS</text>
+  <rect x="426" y="110" width="98" height="26" rx="13" class="chip"/>
+  <text x="475" y="127" class="mono tiny" text-anchor="middle">MEMORY</text>
+  <rect x="535" y="110" width="105" height="26" rx="13" class="chip"/>
+  <text x="587.5" y="127" class="mono tiny" text-anchor="middle">IDENTITY</text>
+  <rect x="651" y="110" width="127" height="26" rx="13" class="chip"/>
+  <text x="714.5" y="127" class="mono tiny" text-anchor="middle">GEN AI</text>
+  <!-- Conversational systems -->
+  <rect x="44" y="160" width="374" height="358" rx="18" class="panel"/>
+  <text x="68" y="188" class="mono section" text-anchor="start">CONVERSATIONAL SYSTEMS</text>
+  <text x="68" y="212" class="sans subtitle" text-anchor="start">Long-running interaction through speech,</text>
+  <text x="68" y="232" class="sans subtitle" text-anchor="start">language, context and external tools.</text>
+  <rect x="83" y="259" width="89" height="36" rx="12" class="soft"/>
+  <text x="127.5" y="282" class="mono small" text-anchor="middle">speech</text>
+  <rect x="181" y="259" width="89" height="36" rx="12" class="soft"/>
+  <text x="225.5" y="282" class="mono small" text-anchor="middle">text</text>
+  <rect x="279" y="259" width="113" height="36" rx="12" class="soft"/>
+  <text x="335.5" y="282" class="mono small" text-anchor="middle">context</text>
+  <path d="M127.5 295V305H226 M226 295V323 M335.5 295V305H226" fill="none" stroke="#0969da" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M220 316L226 323L232 316" fill="none" stroke="#0969da" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="83" y="327" width="285" height="87" rx="15" class="soft"/>
+  <text x="225.5" y="353" class="mono strong" text-anchor="middle">agent / orchestration</text>
+  <text x="225.5" y="376" class="mono tiny" text-anchor="middle">dialogue · reasoning</text>
+  <text x="225.5" y="394" class="mono tiny" text-anchor="middle">memory-aware tool use</text>
+  <path d="M226 414V426 M127 426H324 M127 426V440 M226 426V440 M324 426V440" fill="none" stroke="#0969da" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M121 433L127 440L133 433" fill="none" stroke="#0969da" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M220 433L226 440L232 433" fill="none" stroke="#0969da" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M318 433L324 440L330 433" fill="none" stroke="#0969da" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="79" y="444" width="96" height="36" rx="12" class="soft"/>
+  <text x="127" y="467" class="mono small" text-anchor="middle">tools / APIs</text>
+  <rect x="186" y="444" width="81" height="36" rx="12" class="soft"/>
+  <text x="226.5" y="467" class="mono small" text-anchor="middle">automation</text>
+  <rect x="280" y="444" width="87" height="36" rx="12" class="soft"/>
+  <text x="323.5" y="467" class="mono small" text-anchor="middle">action</text>
+  <text x="231" y="500" class="mono tiny" text-anchor="middle">session continuity · state · preferences</text>
+  <!-- Identity-preserving generation -->
+  <rect x="448" y="160" width="374" height="358" rx="18" class="panel"/>
+  <text x="472" y="188" class="mono section" text-anchor="start">IDENTITY-PRESERVING GENERATION</text>
+  <text x="472" y="212" class="sans subtitle" text-anchor="start">Visual consistency while pose, style,</text>
+  <text x="472" y="232" class="sans subtitle" text-anchor="start">viewpoint and medium are allowed to change.</text>
+  <rect x="479" y="259" width="93" height="36" rx="12" class="soft"/>
+  <text x="525.5" y="282" class="mono small" text-anchor="middle">reference</text>
+  <rect x="581" y="259" width="93" height="36" rx="12" class="soft"/>
+  <text x="627.5" y="282" class="mono small" text-anchor="middle">traits</text>
+  <rect x="683" y="259" width="126" height="36" rx="12" class="soft"/>
+  <text x="746" y="282" class="mono small" text-anchor="middle">pose / structure</text>
+  <path d="M525.5 295V305H627.5 M627.5 295V323 M746 295V305H627.5" fill="none" stroke="#0969da" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M621.5 316L627.5 323L633.5 316" fill="none" stroke="#0969da" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="483" y="327" width="305" height="87" rx="15" class="soft"/>
+  <text x="635.5" y="353" class="mono strong" text-anchor="middle">generation / control</text>
+  <text x="635.5" y="376" class="mono tiny" text-anchor="middle">conditioning · structure control</text>
+  <text x="635.5" y="394" class="mono tiny" text-anchor="middle">identity constraint</text>
+  <path d="M635.5 414V426 M535.5 426H735.5 M535.5 426V440 M635.5 426V440 M735.5 426V440" fill="none" stroke="#0969da" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M529.5 433L535.5 440L541.5 433" fill="none" stroke="#0969da" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M629.5 433L635.5 440L641.5 433" fill="none" stroke="#0969da" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M729.5 433L735.5 440L741.5 433" fill="none" stroke="#0969da" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="493" y="444" width="85" height="36" rx="12" class="soft"/>
+  <text x="535.5" y="467" class="mono small" text-anchor="middle">image</text>
+  <rect x="597" y="444" width="77" height="36" rx="12" class="soft"/>
+  <text x="635.5" y="467" class="mono small" text-anchor="middle">3D</text>
+  <rect x="693" y="444" width="85" height="36" rx="12" class="soft"/>
+  <text x="735.5" y="467" class="mono small" text-anchor="middle">video</text>
+  <text x="635" y="500" class="mono tiny" text-anchor="middle">cross-view · cross-style · cross-medium consistency</text>
+  <!-- Shared continuity connection -->
+  <path d="M418 370.5H432" fill="none" stroke="#0969da" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M448 370.5H432" fill="none" stroke="#8250df" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M432 370.5V532" fill="none" stroke="url(#continuity)" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M426 525L432 532L438 525" fill="none" stroke="#0969da" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="44" y="532" width="778" height="89" rx="18" class="panel"/>
+  <text x="68" y="560" class="mono section" text-anchor="start">CONTINUITY LAYER</text>
+  <text x="433" y="585" class="mono strong" text-anchor="middle">identity across time &amp; modality</text>
+  <text x="433" y="607" class="mono small" text-anchor="middle">memory · state · preferences · traits · structure</text>
+  <!-- Technical scope -->
+  <rect x="848" y="160" width="392" height="328" rx="18" class="panel"/>
+  <text x="872" y="188" class="mono section" text-anchor="start">CURRENT TECHNICAL SCOPE</text>
+  <text x="872" y="212" class="sans subtitle" text-anchor="start">What I currently build and explore.</text>
+  <text x="872" y="259" class="mono text" text-anchor="start">Conversational AI</text>
+  <text x="1194" y="259" class="mono green" text-anchor="end">ACTIVE</text>
+  <text x="872" y="301" class="mono text" text-anchor="start">Agents / automation</text>
+  <text x="1194" y="301" class="mono green" text-anchor="end">ACTIVE</text>
+  <text x="872" y="343" class="mono text" text-anchor="start">Speech systems</text>
+  <text x="1194" y="343" class="mono green" text-anchor="end">ACTIVE</text>
+  <text x="872" y="385" class="mono text" text-anchor="start">Memory / persistence</text>
+  <text x="1194" y="385" class="mono orange" text-anchor="end">FOCUS</text>
+  <text x="872" y="427" class="mono text" text-anchor="start">Identity consistency</text>
+  <text x="1194" y="427" class="mono orange" text-anchor="end">FOCUS</text>
+  <text x="872" y="469" class="mono text" text-anchor="start">Generative AI</text>
+  <text x="1194" y="469" class="mono purple" text-anchor="end">RESEARCH</text>
+  <!-- Identity / continuity -->
+  <rect x="848" y="512" width="392" height="255" rx="18" class="panel"/>
+  <text x="872" y="540" class="mono section" text-anchor="start">IDENTITY / CONTINUITY</text>
+  <text x="872" y="578" class="mono small" text-anchor="start">session continuity</text>
+  <text x="872" y="600" class="mono text" text-anchor="start">same assistant across sessions</text>
+  <text x="872" y="640" class="mono small" text-anchor="start">voice consistency</text>
+  <text x="872" y="662" class="mono text" text-anchor="start">stable speaker / multilingual continuity</text>
+  <text x="872" y="702" class="mono small" text-anchor="start">persona consistency</text>
+  <text x="872" y="724" class="mono text" text-anchor="start">persistent traits / preferences</text>
+  <text x="872" y="744" class="mono text" text-anchor="start">and stable behavior over time</text>
+  <!-- Quick builds -->
+  <rect x="44" y="647" width="778" height="120" rx="18" class="panel"/>
+  <text x="68" y="675" class="mono section" text-anchor="start">QUICK BUILDS</text>
+  <text x="68" y="699" class="sans subtitle" text-anchor="start">Small practical tools for problems I actually run into.</text>
+  <rect x="68" y="715" width="216" height="35" rx="12" class="soft"/>
+  <text x="176" y="738" class="mono small" text-anchor="middle">browser extension</text>
+  <rect x="300" y="715" width="216" height="35" rx="12" class="soft"/>
+  <text x="408" y="738" class="mono small" text-anchor="middle">workflow utility</text>
+  <rect x="532" y="715" width="216" height="35" rx="12" class="soft"/>
+  <text x="640" y="738" class="mono small" text-anchor="middle">AI tooling</text>
+  <!-- Footer -->
+  <rect x="44" y="797" width="1200" height="31" rx="16" fill="#f6f8fa" stroke="#d0d7de" stroke-width="0.8"/>
+  <text x="60" y="817" class="mono small" text-anchor="start">languages:</text>
+  <text x="146" y="817" class="mono text" text-anchor="start">PT</text>
+  <text x="169" y="817" class="mono tiny" text-anchor="start">native</text>
+  <text x="233" y="817" class="mono text" text-anchor="start">EN</text>
+  <text x="256" y="817" class="mono tiny" text-anchor="start">advanced</text>
+  <text x="334" y="817" class="mono text" text-anchor="start" style="font-family: 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif; font-weight: 400">中文</text>
+  <text x="368" y="817" class="mono tiny" text-anchor="start">learning</text>
+  <text x="451" y="817" class="mono small" text-anchor="start">background:</text>
+  <text x="544" y="817" class="mono text" text-anchor="start">UX Research</text>
+  <text x="1224" y="817" class="mono tiny" text-anchor="end">if every component changes, what preserves identity?</text>
+  </g>
+</svg>
+
