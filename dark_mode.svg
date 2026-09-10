@@ -19,7 +19,7 @@ text { font-family: "Segoe UI", Arial, sans-serif; fill: #f0f3f8; }
 .node { fill: #1a2940; stroke: #91bfff; stroke-opacity: 0.45; }
 </style>
 <rect width="800" height="1136" rx="16" fill="#0d1117"/>
-<text x="24" y="54" class="title" text-anchor="start">phgallop / profile.svg</text>
+<text x="24" y="54" class="title" text-anchor="start">phgallop / soul.svg</text>
 <text x="24" y="87" class="body" text-anchor="start">Applied AI · Conversational systems · Identity persistence</text>
 <text x="24" y="126" class="label" text-anchor="start">PYTHON · NLP · SPEECH · AGENTS · MEMORY · IDENTITY · GEN AI</text>
 <rect x="656" y="26" width="112" height="32" rx="16" fill="#183622"/><circle cx="673" cy="42" r="4" fill="#9be995"/>
